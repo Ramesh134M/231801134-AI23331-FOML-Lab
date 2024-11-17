@@ -1,1 +1,1 @@
-House Price Prediction System
+HOUSE PRICE PREDICTION SYSTEM
